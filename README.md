@@ -1,7 +1,7 @@
 [![DOI](https://zenodo.org/badge/372785078.svg)](https://zenodo.org/badge/latestdoi/372785078)
 
 
-# Il-terzo-libro-di-Palmerino-d-Inghilterra-Authorship-Attribution
+# Il-terzo-libro-di-Palmerino-d-Inghilterra-Authorship-Attribution_v1.0
 Corpora and results of the stylometric analysis on Italian Romance of Chivalry "Il terzo libro di Palmerino d'Inghilterra".
 ***
 Reference:
